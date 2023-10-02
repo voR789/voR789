@@ -8,6 +8,6 @@ future goals:
 
 
 ![image](https://github.com/voR789/voR789/assets/106113598/4d188d0b-8607-4893-876b-c5af2c706d2d)
-![communityIcon_4v21sx0aiam41-removebg-preview (1)](https://github.com/voR789/voR789/assets/106113598/9ac9b21a-cb93-46f9-bb93-e545a934de84)
+![image](https://github.com/voR789/voR789/assets/106113598/2584fdfe-97de-4c31-a4cd-2a49984ecd42)
 ![image](https://github.com/voR789/voR789/assets/106113598/49ae766d-f670-423c-8021-6230db0f7cfa)
 ![image](https://github.com/voR789/voR789/assets/106113598/30706334-45b7-4b6c-8404-3c91f8ad460c)
