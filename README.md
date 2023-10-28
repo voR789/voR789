@@ -1,7 +1,7 @@
 ### **Welcome**
 what im up to:
 - learning kotlin and andriod app development
-- developing an andriod app project
+- developing an andriod app project [Prototype](https://github.com/voR789/AndroidStudioProjects/tree/main/CheckUpApp)
 
 future goals:
 - learn c# and unity
