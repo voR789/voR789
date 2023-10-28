@@ -7,7 +7,7 @@ future goals:
 - learn c# and unity
 
 main projects:
-[CheckUp](https://github.com/voR789/AndroidStudioProjects/tree/main/CheckUpApp), [MiniWordle](https://github.com/voR789/Code-Projects/tree/main/JavaFX%20Projects/Wordle)
+[CheckUp](https://github.com/voR789/AndroidStudioProjects/tree/main/CheckUpApp), [MiniWordle](https://github.com/voR789/Code-Projects/tree/main/JavaFX%20Projects/MiniWordle)
 
 ![image](https://github.com/voR789/voR789/assets/106113598/4d188d0b-8607-4893-876b-c5af2c706d2d)
 ![image](https://github.com/voR789/voR789/assets/106113598/2584fdfe-97de-4c31-a4cd-2a49984ecd42)
