@@ -1,6 +1,6 @@
 ### **Welcome**
 
 main projects:
-CHIP8 Emulator
+Gameboy Emulator, Lip Reading
 
 contact: ryanvo2020@gmail.com
